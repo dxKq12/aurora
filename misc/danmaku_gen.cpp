@@ -1,4 +1,7 @@
-//弾幕メーカー(?)
+/*
+あとで実装する
+sampleのところにアイデアどんどん入れてく
+*/
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -13,7 +16,16 @@ std::string getRandomString(const std::vector<std::string>& strings) {
 }
 
 int main() {
-    std::vector<std::string> strings = {"r=\cos{\sqrt{\theta}}","sample1","sample2","sample3","sample4","sample5"};
+    
+    std::vector<std::string> strings = {
+        "sample0",
+        "sample1",
+        "sample2",
+        "sample3",
+        "sample4",
+        "sample5",
+    };
+    
     std::cout << getRandomString(strings) << std::endl;
 
     return 0;
