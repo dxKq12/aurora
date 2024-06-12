@@ -24,4 +24,4 @@ made by dxKq12
 2024/06/12：
 1. readme.mdを作成・変更
 2. UpdateLog.txtを作成
-
+3. memo.cppを追加
