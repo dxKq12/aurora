@@ -1,7 +1,7 @@
 /*
-あとで実装する
+あとで自動で弾幕出してくれるようにする
 sampleのところにアイデアどんどん入れてく
-*/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -30,3 +30,4 @@ int main() {
 
     return 0;
 }
+*/
