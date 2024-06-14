@@ -25,5 +25,6 @@ made by dxKq12
 1. readme.mdを作成・変更
 2. UpdateLog.txtを作成
 3. misc/memo.cppを追加、変更
-2024/06/14
+   
+2024/06/14：
 1. memo.cppを変更
