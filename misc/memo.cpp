@@ -33,7 +33,10 @@ int main() {
     std::cout << getRandomString(strings) << std::endl;
 
     return 0;
-}// aurora.cpp : アプリケーションのエントリ ポイントを定義します。
+}
+
+以下　AI生成。バグあり
+// aurora.cpp : アプリケーションのエントリ ポイントを定義します。
 //
 
 #include "framework.h"
